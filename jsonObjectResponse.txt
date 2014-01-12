@@ -1,0 +1,13 @@
+{"images":[{"startdate":"20140107","fullstartdate":"201401070800","enddate":"20140108","url":"/az/hprichbg/rb/DRSunset_EN-US11297510173_1366x768.jpg","urlbase":"/az/hprichbg/rb/DRSunset_EN-US11297510173","copyright":"Cabarete, Dominican Republic (© Getty Images)","copyrightlink":"/search?q=Cabarete%2C+Dominican+Republic&form=hpcapt&filters=HpDate%3a%2220140107_0800%22","wp":false,"hsh":"06f464b96be9d9b6852de7b035597588","drk":1,"top":1,"bot":1,"hs":[{"desc":"Oh, how quickly we'd kick off our boots and lose the mittens...","link":"/search?q=Cabarete%2C+Dominican+Republic&form=hphot1","query":"To walk right onto this beach","locx":15,"locy":47},{"desc":"This spot has become a popular destination for kitesurfing.","link":"/videos/search?q=kitesurfing+Cabarete%2C+Dominican+Republic&form=hphot2#&view=detail&mid=D6C4786FCB9367F31F99D6C4786FCB9367F31F99","query":"Ever wonder what it looks like from the kite's perspective?","locx":41,"locy":33},{"desc":"Like beaches? Visit just about any city in this Caribbean nation and...","link":"/images/search?q=dominican+republic+beaches&form=hphot3","query":"Chances are you'll be seeing a lot of this","locx":59,"locy":44},{"desc":"If you're visiting both the Dominican Republic and Haiti...","link":"/maps/?v=2&cp=18.821359~-71.391380&lvl=6&dir=0&sty=b&q=hispaniola&form=hphot4","query":"Confuse your geographically challenged friends and tell them you're traveling to this island","locx":76,"locy":49}],"msg":[],"vid":{"codecs":[["video/ogg; codecs=\"theora, vorbis\"","/az/hprichv/DominicanSunset_GettyRR_185228474_EN-US.ogv"],["video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"","/az/hprichv/DominicanSunset_GettyRR_185228474_EN-US.mp4"]],"loop":true,"image":"/az/hprichv/DominicanSunset_GettyRR_185228474_EN-US79312105.jpg","caption":"Cabarete, Dominican Republic (© Getty Images)","captionlink":"/search?q=Cabarete%2C+Dominican+Republic&form=hpcapt","dark":true}}],"tooltips":{"loading":"Loading...","previous":"Previous","next":"Next","walle":"This image is not available to download as wallpaper.","walls":"Download this image. Use of this image is restricted to wallpaper only.","play":"Play","pause":"Pause"}}
+
+
+
+
+
+
+http://www.bing.com/HPImageArchive.aspx?format=js&idx=3&n=1&nc=1389477468344&pid=hp&FORM=HYLH&video=1
+
+http://www.bing.com/HPImageArchive.aspx?format=js&idx=4&n=1&nc=1389477541224&pid=hp&FORM=HYLH&video=1
+
+
+
